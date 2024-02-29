@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<LangVersion>10</LangVersion>
+	<RootNamespace>TradingEngineServer.Logging</RootNamespace>
+	<AssemblyName>TradingEngineServer.Logging</AssemblyName>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
